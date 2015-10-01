@@ -10,6 +10,8 @@ JC = JavaScriptとCanvasの略(命名:僕) ... ブラウザゲームが作れる
 * ブラウザ( Google Chrome か Firefox )
 * エディタ( Sublime Text3 推奨)
 * ドヤリティ(すげぇ！！俺ゲーム作ってる！！)
+
+
 これだけです。
 
 
