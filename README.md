@@ -8,7 +8,7 @@ JC = JavaScriptとCanvasの略(命名:僕) ... ブラウザゲームが作れる
 
 ## 材料
 * ブラウザ( Google Chrome か Firefox )
-* エディタ( Sublime Text3 推奨)
+* [エディタ( Sublime Text3 推奨)](https://www.dropbox.com/s/w2c80c2lndeuq5q/Sublime%20Text%203%28MCA%29.zip?dl=0)
 * ドヤリティ(すげぇ！！俺ゲーム作ってる！！)
 
 
@@ -22,6 +22,8 @@ JC = JavaScriptとCanvasの略(命名:僕) ... ブラウザゲームが作れる
 まずは各回の資料のソースコードを参考に，写経(見て自分で打つ)してみてください．
 
 (書いてあるコメントは打たなくていいです．)
+
+推奨エディタ(日本語化・プラグイン導入済み)は上の材料のリンクから出来ます．
 
 その後にサークルの方で解説したいと思います．
 
