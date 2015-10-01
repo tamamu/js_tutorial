@@ -31,13 +31,15 @@
 */
 
 
-//ここで全ての関数で使う変数を宣言します
+//ここで全ての関数で使う変数(グローバル変数)を宣言します
+// canvas はindex.htmlにあるゲーム画面領域<canvas>を示すための変数です
+// ctx は変数canvasを操作するための変数で，いわばハンドルです
 var canvas, ctx;
 
 //ページの読み込みが完了するのと同時に実行される関数です
 window.onload=function(){
 
-	//index.htmlの<canvas>要素を拾います
+	//index.htmlの<canvas>要素を拾って，変数canvasに代入します
 	canvas=document.getElementById("game");
 
 	//ゲーム画面の横幅を480pxにする
@@ -45,7 +47,7 @@ window.onload=function(){
 	//ゲーム画面の高さを640pxにする
 	canvas.height=640;
 
-	//Canvasを2Dモードで開く
+	//変数canvasを2Dモードで開いて，ハンドルを変数ctxに代入します
 	ctx=canvas.getContext("2d");
 
 
