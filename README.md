@@ -40,7 +40,7 @@ JC = JavaScriptとCanvasの略(命名:僕) ... ブラウザゲームが作れる
 
 	ちょっとつまらない回です。
 
-	10/5解説予定。
+	10/5解説済み([スライド](http://www.slideshare.net/tamamu/jscanvas-tutorial1))
 
 ### 第2回 まず土台から作ろう ~TOKIOになった気分で~
 	家と同じでゲームにも基礎があります。
