@@ -40,35 +40,41 @@ JC = JavaScriptとCanvasの略(命名:僕) ... ブラウザゲームが作れる
 
 	ちょっとつまらない回です。
 
-	10/5解説済み([スライド](http://www.slideshare.net/tamamu/jscanvas-tutorial1))
+	10/5解説済み。
+
+	[スライド](http://www.slideshare.net/tamamu/jscanvas-tutorial1)
 
 ### 第2回 まず土台から作ろう ~TOKIOになった気分で~
 	家と同じでゲームにも基礎があります。
 
 	ちょっと楽しい回です。
 
-	10/8解説済み([スライド](http://www.slideshare.net/tamamu/jscanvas-tutorial2))。
+	10/8解説済み。
+
+	[スライド](http://www.slideshare.net/tamamu/jscanvas-tutorial2)
 
 ### 第3回 ガンマンショー ~You and Me~
 	あいつと俺の一騎打ちだ！
 
 	ちょっと難しい回です。
 
-	10/15解説予定。
+	10/15解説済み。
+
+	[スライド](http://www.slideshare.net/tamamu/jc-tutorial3)
 
 ### 第4回 私は死なない ~何度でも蘇るさ~
 	倒しても倒してもキリがない！！
 
 	急にゲームっぽくなる回です。
 
-	10/19解説予定。
+	10/22解説予定。
 
 ### 第5回 最後の隠し味 ~秘伝のピザソース~
 	良いスパイスですね。
 
 	これで君も料理人だ！！
 
-	10/22解説予定。
+	10/29解説予定。
 
 ### おまけ スマホで動かそう ~僕はスマホゲーマー~
 	スマホ対応とか……どうすか？
