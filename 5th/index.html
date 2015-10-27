@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>JCと遊ぼう!!</title>
+	<style>
+		#bg{
+			position: absolute;
+			z-index: 0;
+		}
+		#game{
+			position: absolute;
+			z-index: 1;
+		}
+		#score{
+			position: absolute;
+			z-index: 2;
+		}
+	</style>
+</head>
+<body>
+	<canvas id="bg"></canvas>
+	<canvas id="game"></canvas>
+	<canvas id="score"></canvas>
+	<script src="bullet.js"></script>
+	<script src="enemy.js"></script>
+	<script src="game.js"></script>
+</body>
+</html>
